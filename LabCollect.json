@@ -7,8 +7,8 @@
                 "label": "New", 
                 "icon": "pi pi-fw pi-plus",
                 "items": [
-                    {"label": "User", "icon": "pi pi-fw pi-user-plus" , "routerLink":["/test"]},
-                    {"label": "Filter", "icon": "pi pi-fw pi-filter"}
+                    {"label": "User", "icon": "pi pi-fw pi-user-plus" , "routerLink":["/user"]},
+                    {"label": "Material", "icon": "pi pi-fw pi-filter", "routerLink":["/material"]}}
                 ]
             },
             {"label": "Open", "icon": "pi pi-fw pi-external-link"},
