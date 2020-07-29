@@ -1,3 +1,6 @@
-[
-	"applicationPaths": {"master/LabCollect.json","master/LabFlow.json"}
-]
+{
+	"applicationPaths": [
+		"master/LabCollect.json",
+		"master/LabFlow.json"
+	]
+}
