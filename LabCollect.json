@@ -34,7 +34,7 @@
 							"/external"
 						],
 						"queryParams": {
-							"site": "www.orf.at"
+							"site": "http://www.orf.at"
 						}
 					}
 				]
