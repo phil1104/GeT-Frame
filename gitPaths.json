@@ -1,6 +1,7 @@
 {
 	"applicationPaths": [
 		"master/LabCollect.json",
-		"master/LabFlow.json"
+		"master/LabFlow.json",
+		"master/Help.json"
 	]
 }

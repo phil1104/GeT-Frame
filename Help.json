@@ -1,0 +1,31 @@
+{
+	"name": "Help",
+	"menuConfig": {
+		"label": "Help",
+		"icon": "pi pi-fw pi-question",
+		"items": [
+			{
+				"label": "Contents",
+				"icon": "pi pi-pi pi-bars"
+			},
+			{
+				"label": "Search",
+				"icon": "pi pi-pi pi-search",
+				"items": [
+					{
+						"label": "Text",
+						"items": [
+							{
+								"label": "Workspace"
+							}
+						]
+					},
+					{
+						"label": "User",
+						"icon": "pi pi-fw pi-file"
+					}
+				]
+			}
+		]
+	}
+}
