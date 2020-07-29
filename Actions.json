@@ -1,5 +1,6 @@
-[
-    {
+{
+	"name":"Actions",
+	"menuConfig":{
         "label": "Actions",
         "icon": "pi pi-fw pi-cog",
         "items": [
@@ -20,4 +21,4 @@
             }
         ]
     }
-]
+}

@@ -2,6 +2,7 @@
 	"applicationPaths": [
 		"master/LabCollect.json",
 		"master/LabFlow.json",
-		"master/Help.json"
+		"master/Help.json",
+		"master/Actions.json"
 	]
 }
