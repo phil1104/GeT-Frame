@@ -20,7 +20,10 @@
 						"icon": "pi pi-fw pi-filter",
 						"routerLink": [
 							"/dynamic"
-						]
+						],
+						"queryParams": {
+							"dataEndpoint": "master/materialTestData.json"
+						}
 					},
 					{
 						"label": "External Website",
