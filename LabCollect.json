@@ -19,7 +19,7 @@
 						"label": "Material",
 						"icon": "pi pi-fw pi-filter",
 						"routerLink": [
-							"/material"
+							"/dynamic"
 						]
 					},
 					{
