@@ -2,7 +2,8 @@
 	"displayElements": [
 		{
 			"type": "textBox",
-			"label": "Name"
+			"label": "Name",
+			"disabled": false
 		},
 		{
 			"type": "number",
