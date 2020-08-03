@@ -1,6 +1,50 @@
 {
 	"displayElements": [
 		{
+			"type": "list",
+			"label": "List",
+			"disabled": false,
+			"elements": [
+				{
+					"type": "label",
+					"label": "list element 1"
+				},
+				{
+					"type": "label",
+					"label": "list element 2"
+				},
+				{
+					"type": "label",
+					"label": "list element 3"
+				}
+			]
+		},
+		{
+			"type": "inputForm",
+			"label": "input Form",
+			"disabled": false,
+			"elements": [
+				{
+					"type": "textBox",
+					"label": "Name",
+					"disabled": false
+				},
+				{
+					"type": "number",
+					"label": "Age"
+				},
+				{
+					"type": "select",
+					"label": "favorite book",
+					"options": [
+						"Jane Eyre",
+						"Pride and Prejudice",
+						"Wuthering Heights"
+					]
+				}
+			]
+		},
+		{
 			"type": "textBox",
 			"label": "Name",
 			"disabled": false
