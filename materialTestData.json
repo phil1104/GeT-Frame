@@ -64,6 +64,42 @@
 				{
 					"id": "id 3",
 					"label": "grid element 3"
+				},
+								{
+					"id": "id 4",
+					"label": "grid element 4"
+				},
+				{
+					"id": "id 5",
+					"label": "grid element 5"
+				},
+				{
+					"id": "id 6",
+					"label": "grid element 6"
+				},
+								{
+					"id": "id 7",
+					"label": "grid element 7"
+				},
+				{
+					"id": "id 8",
+					"label": "grid element 8"
+				},
+				{
+					"id": "id 9",
+					"label": "grid element 9"
+				},
+								{
+					"id": "id 10",
+					"label": "grid element 10"
+				},
+				{
+					"id": "id 11",
+					"label": "grid element 11"
+				},
+				{
+					"id": "id 12",
+					"label": "grid element 12"
 				}
 			]
 		}
