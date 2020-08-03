@@ -47,6 +47,25 @@
 		{
 			"type": "label",
 			"label": "Ich bin ein Label"
+		},
+		{
+			"type": "dataGrid",
+			"label": "data grid",
+			"disabled": false,
+			"dataGridElements": [
+				{
+					"id": "id 1",
+					"label": "grid element 1"
+				},
+				{
+					"id": "id 2",
+					"label": "grid element 2"
+				},
+				{
+					"id": "id 3",
+					"label": "grid element 3"
+				}
+			]
 		}
 	]
 }
