@@ -1,7 +1,7 @@
 {
 	"name":"LabFlow",
 	"menuConfig":{
-        "label": "Edit",
+        "label": "LabFlow",
         "icon": "pi pi-fw pi-pencil",
         "items": [
             {"label": "Delete", "icon": "pi pi-fw pi-trash"},

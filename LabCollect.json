@@ -1,7 +1,7 @@
 {
 	"name": "LabCollect",
 	"menuConfig": {
-		"label": "File",
+		"label": "LabCollect",
 		"icon": "pi pi-pw pi-file",
 		"items": [
 			{
