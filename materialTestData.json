@@ -52,7 +52,7 @@
 			"type": "dataGrid",
 			"label": "data grid",
 			"disabled": false,
-			"imagesPath": "Images LabCollect",
+			"imagesPath": "master/Images LabCollect",
 			"dataGridElements": [
 				{
 					"id": "id 1",
