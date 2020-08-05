@@ -52,54 +52,67 @@
 			"type": "dataGrid",
 			"label": "data grid",
 			"disabled": false,
+			"imagesPath": "Images LabCollect",
 			"dataGridElements": [
 				{
 					"id": "id 1",
-					"label": "grid element 1"
+					"label": "grid element 1",
+					"imageName": "AB.png"
 				},
 				{
 					"id": "id 2",
-					"label": "grid element 2"
+					"label": "grid element 2",
+					"imageName": "AB.png"
 				},
 				{
 					"id": "id 3",
-					"label": "grid element 3"
+					"label": "grid element 3",
+					"imageName": "AB.png"
 				},
 								{
 					"id": "id 4",
-					"label": "grid element 4"
+					"label": "grid element 4",
+					"imageName": "AB.png"
 				},
 				{
 					"id": "id 5",
-					"label": "grid element 5"
+					"label": "grid element 5",
+					"imageName": "AB.png"
 				},
 				{
 					"id": "id 6",
-					"label": "grid element 6"
+					"label": "grid element 6",
+					"imageName": "AB.png"
 				},
 								{
 					"id": "id 7",
-					"label": "grid element 7"
+					"label": "grid element 7",
+					"imageName": "AB.png"
 				},
 				{
 					"id": "id 8",
-					"label": "grid element 8"
+					"label": "grid element 8",
+					"imageName": "AB.png"
 				},
 				{
 					"id": "id 9",
-					"label": "grid element 9"
+					"label": "grid element 9",
+					"imageName": "AB.png"
 				},
 								{
 					"id": "id 10",
-					"label": "grid element 10"
+					"label": "grid element 10",
+					"imageName": "AB.png"
 				},
 				{
 					"id": "id 11",
-					"label": "grid element 11"
+					"label": "grid element 11",
+					"imageName": "AB.png"
 				},
 				{
 					"id": "id 12",
-					"label": "grid element 12"
+					"label": "grid element 12",
+					"imageName": "AB.png"
 				}
 			]
 		}
