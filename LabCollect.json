@@ -19,8 +19,9 @@
 						"label": "Material",
 						"icon": "pi pi-fw pi-filter",
 						"routerLink": [
-							"dynamic"
+							"/main"
 						],
+						"routerLinkActiveOptions": "{ outlets : {'content': 'dynamic'}}",
 						"queryParams": {
 							"dataEndpoint": "master/materialTestData.json"
 						}
