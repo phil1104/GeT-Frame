@@ -21,10 +21,8 @@
 						"routerLink": [
 							"/main"
 						],
-						"routerLinkActiveOptions": "{ outlets : {'content': 'dynamic'}}",
-						"queryParams": {
-							"dataEndpoint": "master/materialTestData.json"
-						}
+						"routerLinkActiveOptions": "{ outlets : {'content': 'dynamic'}}"
+						
 					},
 					{
 						"label": "External Website",
@@ -37,6 +35,9 @@
 						"routerLink": [
 							"/external"
 						],
+						"queryParams": {
+							"dataEndpoint": "master/materialTestData.json"
+						},
 						"queryParams": {
 							"site": "http://www.orf.at"
 						}
