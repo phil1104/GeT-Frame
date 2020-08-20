@@ -20,9 +20,7 @@
 						"icon": "pi pi-fw pi-filter",
 						"routerLink": [
 							"/main"
-						],
-						"routerLinkActiveOptions": "{ outlets : {'content': 'dynamic'}}"
-						
+						]				
 					},
 					{
 						"label": "External Website",
