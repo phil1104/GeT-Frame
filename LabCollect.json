@@ -19,7 +19,7 @@
 						"label": "Material",
 						"icon": "pi pi-fw pi-filter",
 						"routerLink": [
-							"/main(content:dynamic)"
+							"/main/(content:dynamic)"
 						],
 						"queryParams": {
 							"dataEndpoint": "master/materialTestData.json"
