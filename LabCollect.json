@@ -11,7 +11,7 @@
 					{
 						"translationKey": "Material",
 						"icon": "pi pi-fw pi-filter",
-						"internalSite": ['/', {'content': '/dynamic'}]			
+						"internalSite": "dynamic"		
 					}
 				]
 			}
