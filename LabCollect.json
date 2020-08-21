@@ -1,17 +1,17 @@
 {
 	"name": "LabCollect",
 	"menuConfig": {
-		"label": "LabCollect",
+		"translationKey": "LabCollect",
 		"icon": "pi pi-pw pi-file",
 		"items": [
 			{
-				"label": "New",
+				"translationKey": "New",
 				"icon": "pi pi-fw pi-plus",
 				"items": [
 					{
-						"label": "Material",
+						"translationKey": "Material",
 						"icon": "pi pi-fw pi-filter",
-						"routerLink": "['/', {'content': '/dynamic'}]"			
+						"internalSite": ['/', {'content': '/dynamic'}]			
 					}
 				]
 			}
