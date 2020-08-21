@@ -9,16 +9,9 @@
 				"icon": "pi pi-fw pi-plus",
 				"items": [
 					{
-						"label": "User",
-						"icon": "pi pi-fw pi-user-plus",
-						"routerLink": [
-							"/user"
-						]
-					},
-					{
 						"label": "Material",
 						"icon": "pi pi-fw pi-filter",
-						"routerLink": "/main/dynamic"			
+						"routerLink": "['/main', {'content': '/dynamic'}]"			
 					}
 				]
 			}
