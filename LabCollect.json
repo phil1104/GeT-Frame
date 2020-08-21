@@ -18,40 +18,9 @@
 					{
 						"label": "Material",
 						"icon": "pi pi-fw pi-filter",
-						"routerLink": [
-							'/main',{ outlets : {'content': 'dynamic'}}
-						]				
-					},
-					{
-						"label": "External Website",
-						"icon": "pi pi-fw pi-filter",
-						"url": "http://www.orf.at"
-					},
-					{
-						"label": "External Website included",
-						"icon": "pi pi-fw pi-filter",
-						"routerLink": [
-							"/external"
-						],
-						"queryParams": {
-							"dataEndpoint": "master/materialTestData.json"
-						},
-						"queryParams": {
-							"site": "http://www.orf.at"
-						}
+						"routerLink": "[{\"/main\", outlets: { \"content\": [\"/dynamic\"] } }]"			
 					}
 				]
-			},
-			{
-				"label": "Open",
-				"icon": "pi pi-fw pi-external-link"
-			},
-			{
-				"separator": true
-			},
-			{
-				"label": "Quit",
-				"icon": "pi pi-fw pi-times"
 			}
 		]
 	}
