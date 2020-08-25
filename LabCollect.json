@@ -11,7 +11,8 @@
 					{
 						"translationKey": "Material",
 						"icon": "pi pi-fw pi-filter",
-						"internalSite": "dynamic"
+						"internalSite": "dynamic",
+						"content": "LabCollectService/getAllTests"
 					}
 				]
 			},
@@ -22,5 +23,11 @@
 				"content": "http://www.orf.at"
 			}
 		]
+	},
+	"endpoint": {
+		"protocol": "http",
+		"url": "localhost",
+		"port": "94",
+		"method": "GET"
 	}
 }
