@@ -5,14 +5,26 @@
 		"icon": "pi pi-pw pi-file",
 		"items": [
 			{
-				"translationKey": "New",
+				"translationKey": "Materials",
 				"icon": "pi pi-fw pi-plus",
 				"items": [
 					{
-						"translationKey": "Material",
+						"translationKey": "Edit",
 						"icon": "pi pi-fw pi-filter",
 						"internalSite": "dynamic",
-						"content": "LabCollectService/getAllTests"
+						"content": "api/Material"
+					}
+				]
+			},
+			{
+				"translationKey": "Tests",
+				"icon": "pi pi-fw pi-plus",
+				"items": [
+					{
+						"translationKey": "Edit",
+						"icon": "pi pi-fw pi-filter",
+						"internalSite": "dynamic",
+						"content": "api/Test"
 					}
 				]
 			},
@@ -25,9 +37,9 @@
 		]
 	},
 	"endpoint": {
-		"protocol": "http",
+		"protocol": "https",
 		"url": "localhost",
-		"port": "94",
+		"port": "44355",
 		"method": "GET"
 	}
 }
