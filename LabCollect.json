@@ -12,7 +12,7 @@
 						"translationKey": "Edit",
 						"icon": "pi pi-fw pi-filter",
 						"internalSite": "dynamic",
-						"content": "api/Material"
+						"content": "/api/Material"
 					}
 				]
 			},
@@ -24,7 +24,7 @@
 						"translationKey": "Edit",
 						"icon": "pi pi-fw pi-filter",
 						"internalSite": "dynamic",
-						"content": "api/Test"
+						"content": "/api/Test"
 					}
 				]
 			},
@@ -38,7 +38,7 @@
 	},
 	"endpoint": {
 		"protocol": "https",
-		"url": "localhost",
+		"host": "localhost",
 		"port": "44355",
 		"method": "GET"
 	}
